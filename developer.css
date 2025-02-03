@@ -23,6 +23,7 @@
         
     }
     .main ul li a{
+        border-radius: 20px;
         margin-right: 15px;
         color: black;
         padding: 25px;

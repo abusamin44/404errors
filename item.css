@@ -14,8 +14,8 @@
     }
 
     .main{
-        background-color:rgb(223, 143, 40);
-    }
+        background-color:rgb(223, 143, 40);}
+  
     .nev{
         border-radius: 20px;
         margin-top: 0;
@@ -23,6 +23,7 @@
         
     }
     .main ul li a{
+        border-radius: 20px;
         margin-right: 15px;
         color: black;
         padding: 25px;
