@@ -150,15 +150,15 @@
         width: 100%;
         height: 100px;
         background-color: black;
-    }
+        font-weight: bold;
+        color: wheat;
+       }
+    
     .footer h2{
         margin-top: 10px;
         color: wheat;
         font-weight: bold;
     }
-    .footer p2{
-        font-weight: bold;
-     color: wheat;
-    }
+  
 
     
