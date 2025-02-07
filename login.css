@@ -69,6 +69,7 @@ body{
         border: 1px solid black;
         border-radius: 100px; 
         box-shadow: none;
+        border: none;
              
     }
 
@@ -83,6 +84,7 @@ body{
     .ok .check{
         margin-left: -70%;
         padding-bottom: 20px;
+
     }
     .creat{
         text-decoration: none;

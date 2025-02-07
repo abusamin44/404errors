@@ -5,7 +5,7 @@
     
     }
     body{
-    background-image: url(image.img/sho.jpg);
+    background-image: url(image.img/delevary.gif);
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
@@ -36,3 +36,69 @@
         background-color:rgb(80, 80, 201);
         color: white;
     }
+.all{
+    display: flex;
+    margin-top: 100px;
+    width: 500px;
+    height: 450px;
+    background-color:rgb(236, 229, 216);
+    flex-direction: column;
+    filter: blur(2 2 2 0);
+  text-align: center;
+    margin-left: 25%;
+    overflow: hidden;
+    border-radius:15px ;
+}
+h1{
+    margin-top: 10px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+ 
+}
+
+.name{
+    margin-top: 10px;
+    height: 40px;
+    border-radius: 15px;
+    border: none;
+}
+.name:hover{
+    font-size: 25px;
+    height: 50px;
+    border-radius: 15px;
+
+}
+.email{
+    height: 40px;
+    border-radius: 15px;
+    border: none;
+}
+.email:hover{
+    font-size: 25px;
+    height: 50px;
+    border-radius: 15px;
+}
+
+.message{
+    border-radius: 15px;
+    border: none;
+}
+.message:hover{
+    font-size: 25px;
+    border-radius: 15px;
+}
+
+
+.btn{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    height: 50px;
+    width: 150px;
+    border-radius: 30px;
+    background-color:  rgb(80, 80, 201);
+}
+.btn:hover{
+    background-color:red;
+    color: white;
+    border-radius: 30px;
+}
